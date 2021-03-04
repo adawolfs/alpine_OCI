@@ -1,0 +1,4 @@
+UUID=658f8c9e-4f10-4625-a931-98273023e711	/	ext4	rw,relatime 0 1
+UUID=2dee1221-8935-414a-b85d-554d0ce88562	/boot	ext4	rw,relatime 0 2
+/dev/cdrom	/media/cdrom	iso9660	noauto,ro 0 0
+/dev/usbdisk	/media/usb	vfat	noauto	0 0

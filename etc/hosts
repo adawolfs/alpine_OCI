@@ -1,0 +1,4 @@
+127.0.0.1	localhost.lavabit.com localhost localhost.localdomain localhost
+::1		localhost localhost.localdomain
+
+127.0.0.1    alpine313 alpine313.localdomain

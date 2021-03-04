@@ -1,0 +1,4 @@
+exec=/usr/sbin/haveged
+argv_0=/usr/sbin/haveged
+argv_1=--Foreground
+pidfile=/run/haveged.pid

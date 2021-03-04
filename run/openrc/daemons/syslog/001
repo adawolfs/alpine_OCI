@@ -1,0 +1,4 @@
+exec=/sbin/syslogd
+argv_0=/sbin/syslogd
+argv_1=-t
+pidfile=/var/run/syslogd.pid

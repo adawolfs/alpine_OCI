@@ -1,0 +1,4 @@
+exec=/usr/sbin/ntpd
+argv_0=/usr/sbin/ntpd
+argv_1=-d
+pidfile=/run/openntpd.pid
