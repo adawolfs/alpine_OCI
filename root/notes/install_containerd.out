@@ -1,0 +1,21 @@
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   etc/apk/world[m
+	[31mmodified:   var/log/messages[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31metc/containerd/[m
+	[31musr/bin/containerd[m
+	[31musr/bin/containerd-shim[m
+	[31musr/bin/containerd-shim-runc-v1[m
+	[31musr/bin/containerd-shim-runc-v2[m
+	[31musr/bin/ctr[m
+	[31musr/bin/runc[m
+	[31musr/bin/scmp_sys_resolver[m
+	[31musr/lib/libseccomp.so.2[m
+	[31musr/lib/libseccomp.so.2.5.1[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
